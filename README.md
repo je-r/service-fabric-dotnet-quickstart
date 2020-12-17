@@ -8,6 +8,8 @@ page_type: sample
 description: "The quickstart contains an application with multiple services demonstrating the concepts of service communication and use of reliable dictionaries."
 ---
 
+inspired by https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-tutorial-deploy-app-with-cicd-vsts
+
 # Service Fabric .NET Quickstart
 This repository contains an quickstart project for [Microsoft Azure Service Fabric](https://azure.microsoft.com/services/service-fabric/). The quickstart project contains a single application with multiple services demonstrating the basic concepts of service communication and use of reliable dictionaries.
 
